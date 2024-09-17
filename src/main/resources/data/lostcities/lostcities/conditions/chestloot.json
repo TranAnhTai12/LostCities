@@ -3,7 +3,7 @@
     {
       "factor": 8,
       "value": "lostcities:chests/lostcitychest",
-      "range": "4,100"
+      "range": "100,200"
     },
     {
       "factor": 8,
